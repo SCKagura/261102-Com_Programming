@@ -1,0 +1,2 @@
+
+        result << "Result = PASS" << endl;

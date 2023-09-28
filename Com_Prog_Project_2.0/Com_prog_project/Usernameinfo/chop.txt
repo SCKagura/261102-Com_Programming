@@ -1,0 +1,41 @@
+chop
+Correct Answer =19
+Wrong Answer =81
+Result = FAIL
+Max Score = 19
+
+Correct Answer =19
+Wrong Answer =81
+Result = FAIL
+Max Score = 19
+
+Correct Answer =26
+Wrong Answer =74
+Result = FAIL
+Max Score = 26
+
+Correct Answer =32
+Wrong Answer =68
+Result = FAIL
+Max Score = 32
+
+Correct Answer =21
+Wrong Answer =79
+Result = FAIL
+Max Score = 32
+
+Correct Answer =32
+Wrong Answer =68
+Result = FAIL
+Max Score = 32
+
+Correct Answer =31
+Wrong Answer =69
+Result = FAIL
+Max Score = 32
+
+Correct Answer =21
+Wrong Answer =79
+Result = FAIL
+Max Score = 32
+

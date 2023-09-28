@@ -1,0 +1,1 @@
+# SCKagura-261102-Com_Programming
